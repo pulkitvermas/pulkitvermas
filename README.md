@@ -48,9 +48,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pulkitvermas&" alt="pulkitvermas" /></p>
 
+
+<!-- ------------------------------------- -->
+
 MIT License
 
-Copyright (c) 2017 Ritik 
+Copyright (c) 2022 Pulkit Verma 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
