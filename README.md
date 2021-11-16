@@ -15,6 +15,9 @@
 
 <p align="left"> <a href="https://twitter.com/pulkitvermas" target="blank"><img src="https://img.shields.io/twitter/follow/pulkitvermas?logo=twitter&style=for-the-badge" alt="pulkitvermas" /></a> </p>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="pulkitvermass" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/pulkitvermass?trk=profile-badge">Pulkit Verma</a></div>
+              
+
 - 🔭 I’m currently working on [for Early Detection and Prevention of Alzheimer.](https://earlaz.000webhostapp.com/)
 
 - 🌱 I’m currently learning **Kotlin**
