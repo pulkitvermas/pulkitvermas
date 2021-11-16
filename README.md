@@ -14,9 +14,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pulkitvermas" alt="pulkitvermas" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/pulkitvermas" target="blank"><img src="https://img.shields.io/twitter/follow/pulkitvermas?logo=twitter&style=for-the-badge" alt="pulkitvermas" /></a> </p>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-              
+            
 
 - 🔭 I’m currently working on [for Early Detection and Prevention of Alzheimer.](https://earlaz.000webhostapp.com/)
 
