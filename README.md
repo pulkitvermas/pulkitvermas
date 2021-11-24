@@ -3,7 +3,7 @@
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/iampulkitverma.svg?style=social&label=Follow%20%40pulkitverma)](https://twitter.com/iampulkitverma)
 [![Linkedin Badge](https://img.shields.io/badge/pulkitverma-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/pulkitvermas/)
-[![Instagram Badge](https://img.shields.io/badge/pulkitverma-30302f?style=flat&logo=instagram)](https://www.instagram.com/pulkitvermas/)
+[![Instagram Badge](https://img.shields.io/badge/pulkitverma-30302f?style=flat&logo=instagram)](https://www.instagram.com/pulkitverma.officials/)
 [![Gmail Badge](https://img.shields.io/badge/pulkitverma.abesit@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:pulkitverma.abesit@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=pulkitvermas.pulkitvermas) 
 
